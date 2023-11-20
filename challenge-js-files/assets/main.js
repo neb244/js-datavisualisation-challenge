@@ -87,7 +87,7 @@ const tableFunction2 = () => {
 
 
 
-//AJAX_FETCH-----------------------------------------------------------------------------------------------
+//AJAX_FETCH------------------------------------------------------------------------------------------------
 const table3 = document.createElement('canvas');
 table3.id = 'Chart3';
 const ctx3 = table3.getContext('2d');
